@@ -3,4 +3,4 @@
 
 
 
-the test server is base on  tomact 7 and eclispe.It's file name is  TestChatApplication in my project.
+the test server is base on  tomacat 7 and eclipse.It's file name is  TestChatApplication in 
