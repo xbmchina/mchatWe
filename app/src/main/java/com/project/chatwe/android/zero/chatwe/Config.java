@@ -9,6 +9,7 @@ import android.content.SharedPreferences;
 public class Config {
 
 //    public static final String SEVER_URL="http://demo.eoeschool.com/api/v1/nimings/io";
+// Attention,this ip contained by the SEVER_URL,which  should be your computer's wifi address(best)  or you local computer ip address.
     public static final String SEVER_URL="http://172.25.178.1:8080/TestChatApplication/ChatApi.jsp";
     public static final String APP_ID="chatapplication";
 
